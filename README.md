@@ -21,6 +21,4 @@
   <br />
   <p><a href="https://solved.ac/twkk0819"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=twkk0819" alt="Solved.ac프로필"></a></p>
   <br />  
-
-  <p><a href="https://github.com/TAEW00KIM/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAEW00KIM" alt="Top Langs"></a></p>
 </div>
