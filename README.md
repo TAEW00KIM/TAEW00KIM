@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=TAEW00KIM&amp;show_icons=true&amp;theme=radical" alt="TAEW00&#39;s GitHub stats"></p>
+  <p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TAEW00KIM&amp;show_icons=true&amp;theme=radical" alt="TAEW00&#39;s GitHub stats"></p>
   <h4>🫠 Taewoo's 🫠</h4>
   <a href="https://www.instagram.com/taeoowkm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <br />
