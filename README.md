@@ -44,7 +44,6 @@
   
   <!-- Database -->
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <br />
 
   <h4>📚 Solved.ac 📚</h4>
