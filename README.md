@@ -52,4 +52,6 @@
       <a href="https://solved.ac/twkk0819"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=twkk0819" alt="Solved.ac프로필"></a>
     </p>
   <br />  
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TAEW00KIM&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
 </div>
