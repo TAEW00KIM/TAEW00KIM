@@ -21,17 +21,6 @@
 
 ---
 
-### Projects
-
-| Project | Description | Role |
-|---------|------------|------|
-| **[Lo.ci](https://github.com/Chronostasis-app/Lo.ci-server)** | 위치 기반 하이퍼로컬 SNS — H3 인덱싱으로 마커 조회 97% 단축 | 백엔드 설계·개발 (1인) |
-| **[Pinta](https://github.com/Chronostasis-app/pinta-server)** | Lo.ci 재설계 — Caffeine 캐시, CloudFront 이미지 리사이징 | 설계·개발 (1인) |
-| **[Hufscheer](https://github.com/hufscheer/spectator-server)** | 일 400명 대학 스포츠 중계 — 장애 대응, 무중단 스키마 변경 | 실운영 합류 (15+ PR) |
-| **[VitaCheck](https://github.com/VitaCheck/vitacheck-be)** | 영양제 분석·추천 — 멀티모듈, JWT+OAuth2, OOM 해결 | 백엔드 (5인) |
-
----
-
 ### Education & Activities
 
 - **한국외국어대학교** 컴퓨터공학부
