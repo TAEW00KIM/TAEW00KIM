@@ -32,7 +32,6 @@
 ### GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TAEW00KIM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TAEW00KIM&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
 
 ---
 
