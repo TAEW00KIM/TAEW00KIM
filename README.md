@@ -2,9 +2,9 @@
 
 ### Hi, I'm Taewoo 👋
 
-**Backend Engineer** | Java · Spring
+**Software Engineer**
 
-대량 요청 병목을 구조적으로 해결하고, 동시성 환경에서 데이터 정합성을 보장하는 서버 개발자입니다.
+운영하면서 생기는 문제를 찾아 고치는 일을 좋아합니다. 대학 스포츠 응원 서비스 Hufscheer의 백엔드를 맡고 있고, 버즈앤비에서 Vling의 프론트엔드를 개발하고 있습니다.
 
 <a href="https://taew00kim.github.io"><img src="https://img.shields.io/badge/Portfolio-taew00kim.github.io-1e2a3e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 
@@ -19,14 +19,14 @@
 | **Languages** | Java 21, TypeScript, Python |
 | **Frameworks** | Spring Boot 3.x, Spring Data JPA, Spring Security, QueryDSL |
 | **Database** | MySQL, Redis, Firebase Firestore |
-| **Infra** | AWS (EC2 · S3 · CloudFront · Lambda@Edge), Docker, GitHub Actions |
+| **Infra** | AWS (EC2, S3, CloudFront, Lambda@Edge), Docker, GitHub Actions |
 
 ---
 
 ### Education & Activities
 
 - **한국외국어대학교** 컴퓨터공학부
-- **UMC** 한국외대 9기 회장 · 10기 부회장 & Node.js 파트장
+- **UMC** 한국외대 9기 회장, 10기 부회장 겸 Node.js 파트장
 - **H-UP 최우수상** — iOS 앱 'PhonDle' 교내 1위
 
 ---
