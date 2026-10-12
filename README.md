@@ -6,6 +6,8 @@
 
 대량 요청 병목을 구조적으로 해결하고, 동시성 환경에서 데이터 정합성을 보장하는 서버 개발자입니다.
 
+<a href="https://taew00kim.github.io"><img src="https://img.shields.io/badge/Portfolio-taew00kim.github.io-1e2a3e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+
 ---
 
 ### Skills
