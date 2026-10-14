@@ -6,7 +6,7 @@
 
 운영하면서 생기는 문제를 찾아 고치는 일을 좋아합니다. 대학 스포츠 응원 서비스 Hufscheer의 백엔드를 맡고 있고, 버즈앤비에서 Vling의 프론트엔드를 개발하고 있습니다.
 
-<a href="https://taew00kim.github.io"><img src="https://img.shields.io/badge/Portfolio-taew00kim.github.io-1e2a3e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://kimtaewoo.dev"><img src="https://img.shields.io/badge/Portfolio-taew00kim.github.io-1e2a3e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 
 ---
 
